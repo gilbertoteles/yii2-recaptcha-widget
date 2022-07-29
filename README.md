@@ -2,6 +2,9 @@ Google reCAPTCHA widget for Yii2
 ================================
 Based on Google reCaptcha API 2.0 and 3.0.
 
+FORKED from  himiklab/yii2-recaptcha-widget that was abandoned - THAKS to himiklab 4all!
+
+
 [![Packagist](https://img.shields.io/packagist/dt/gilbertoteles/yii2-recaptcha-widget.svg)]() [![Packagist](https://img.shields.io/packagist/v/gilbertoteles/yii2-recaptcha-widget.svg)]()  [![license](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
 Upgrade to 2.x version
