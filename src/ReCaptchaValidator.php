@@ -1,11 +1,11 @@
 <?php
 /**
- * @link https://github.com/himiklab/yii2-recaptcha-widget
- * @copyright Copyright (c) 2014-2019 HimikLab
+ * @link https://github.com/gilbertoteles/yii2-recaptcha-widget
+ * @copyright Copyright (c) 2014-2019 gilbertoteles
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace himiklab\yii2\recaptcha;
+namespace gilbertoteles\yii2\recaptcha;
 
 use Yii;
 use yii\base\InvalidConfigException;
@@ -13,8 +13,8 @@ use yii\base\InvalidConfigException;
 /**
  * ReCaptcha widget validator.
  *
- * @author HimikLab
- * @package himiklab\yii2\recaptcha
+ * @author gilbertoteles
+ * @package gilbertoteles\yii2\recaptcha
  * @deprecated
  */
 class ReCaptchaValidator extends ReCaptchaValidator2
